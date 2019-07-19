@@ -6,7 +6,7 @@ It is used for optimazation of algorithm for imbalanced datasets which do not ha
 
 # Datasets used
 
-Pima Indians diabities dataset ahs 35:65 ratio in their class.
+Pima Indians diabities dataset has 35:65 ratio in their class.
 haberman, abalone,pageblocks which have diff class ratio.
 
 # Notetbooks
